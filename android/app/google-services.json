@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30302854209",
+    "project_id": "krishnamay-6602b",
+    "storage_bucket": "krishnamay-6602b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30302854209:android:b61a396008c3f85cd4fac0",
+        "android_client_info": {
+          "package_name": "com.example.krishnamay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuBZUyzciBMx1spssronfz5A6LUX5V930"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
