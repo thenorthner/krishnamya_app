@@ -5,9 +5,11 @@ Frontend : Social Media Application For Krishna Devotees :
 Here are some glimpses : 
 
 HOMEPAGE : 
+
 ![Screenshot 2024-04-17 185349](https://github.com/user-attachments/assets/a2adcd9a-9c30-49ca-afbd-6340c30f4344)
 
 DRAWER : 
+
 ![Screenshot 2024-04-17 185947](https://github.com/user-attachments/assets/1cd38ee4-5aa6-4abb-865b-6e2f467b0adc)
 
 ![Screenshot 2024-04-17 191841](https://github.com/user-attachments/assets/b0757693-f676-4dc7-8b8b-b9604e5790fd)
@@ -42,12 +44,15 @@ DRAWER :
 
 
 LIVE STREAMING OF EVENTS AT TEMPLES  : 
+
 ![Screenshot 2024-04-17 190157](https://github.com/user-attachments/assets/f080b3a5-e0c0-4c29-9525-e95f23920563)
 
 SEEK GUIDANCE & DISCUSS : 
+
 ![Screenshot 2024-04-17 190232](https://github.com/user-attachments/assets/24fb9103-101f-43e8-9e29-a5c1fac692dc)
 
 ACCESS VEDABASE : 
+
 ![Screenshot 2024-04-17 190232](https://github.com/user-attachments/assets/5f4378a4-be17-419d-add0-66e7f20163e4)
 
 ![Screenshot 2024-04-17 190658](https://github.com/user-attachments/assets/4e8699a9-9b2f-4240-b07d-fa98761b8e02)
