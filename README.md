@@ -60,6 +60,7 @@ ACCESS VEDABASE :
 ![Screenshot 2024-04-17 190806](https://github.com/user-attachments/assets/511c6d70-3cb3-4358-8186-6604442c0e63)
 
 SPIRITUAL STORE : 
+
 ![Screenshot 2024-04-17 190525](https://github.com/user-attachments/assets/1d116455-d151-4675-993a-2fc2fa21031c)
 
 ![Screenshot 2024-04-17 190713](https://github.com/user-attachments/assets/815ad29f-7e01-4ef3-8eb5-aa58698da8b9)
